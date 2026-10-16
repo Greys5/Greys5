@@ -4,7 +4,7 @@
 
 **Building platforms. Automating the repetitive. Making room to create.**
 
-Based in Argentina. I build and automate cloud platforms with Kubernetes and infrastructure as code. My focus is turning repetitive work into reusable workflows and making systems easier to build on and operate—from identity to observability.
+Based in Argentina. I build and automate cloud platforms with Kubernetes and infrastructure as code. My focus is turning repetitive work into reusable workflows and making systems easier to build on and operate—with security, identity, and observability built in.
 
 ### Tools I work with
 
@@ -18,6 +18,7 @@ Based in Argentina. I build and automate cloud platforms with Kubernetes and inf
 
 - **Platform engineering** — making cloud infrastructure easier to build on and operate.
 - **Automation** — turning repetitive tasks into reusable workflows.
+- **Security** — building secure defaults and least-privilege access into platforms and workflows.
 - **Identity and observability** — connecting access, metrics, and logs to everyday operations.
 
 ### Beyond infrastructure
